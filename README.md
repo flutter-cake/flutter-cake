@@ -57,12 +57,12 @@
 
 <p align=center>
   <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=code-bd-sana&theme=shadow-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flutter-cake&theme=shadow-purple" alt="GitHub Streak" /></a>
 
   </div>
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-bd-sana&theme=transparent&bg_color=white&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flutter-cake&theme=transparent&bg_color=white&hide_border=true" width="100%"/>
 </p>
 
 <hr>
