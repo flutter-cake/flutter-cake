@@ -15,6 +15,7 @@
 - 🤝 &nbsp; Open to collaborating on challenging and meaningful projects. 🚀  
 - 📂 &nbsp; Explore some of my featured work in my [portfolio](#).  
 - ☕ &nbsp; Coffee, code, and creativity keep me moving forward.  
+- 📂 &nbsp; State management with Getx, Provider, Bloc
 
 <br>
 
