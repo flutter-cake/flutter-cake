@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Continuously advancing my expertise in **Flutter & Dart**.  
 - 📱 &nbsp; Specialized in building cross-platform **iOS and Android apps**.  
 - 🤝 &nbsp; Open to collaborating on challenging and meaningful projects. 🚀  
-- 📂 &nbsp; Explore some of my featured work in my [portfolio](#).  
+- 📂 &nbsp; Explore some of my featured work in my [portfolio](https://imam-uddin-helal.vercel.app/).  
 - ☕ &nbsp; Coffee, code, and creativity keep me moving forward.  
 - 📂 &nbsp; State management with Getx, Provider, Bloc
 
